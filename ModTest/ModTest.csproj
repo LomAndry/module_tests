@@ -45,6 +45,7 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="DEQueue.cs" />
     <Compile Include="DEQueueTest.cs" />
     <Compile Include="MyInt.cs" />
     <Compile Include="MyIntTest.cs" />
