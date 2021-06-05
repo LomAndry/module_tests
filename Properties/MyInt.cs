@@ -22,7 +22,6 @@ namespace UnitTests
                 items.Insert(0, rest);
                 number /= 10;
             }
-
             items.Insert(0, (byte)(number % 10));
             items.Insert(0, (byte)(isPositive ? 0 : 1));
 
