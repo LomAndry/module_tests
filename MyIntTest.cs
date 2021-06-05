@@ -7,8 +7,9 @@ namespace UnitTests
     public class MyIntTest
     {
         [Test]
-        public void TestMethod1()
+        public void testCreate()
         {
+           
         }
     }
 }
